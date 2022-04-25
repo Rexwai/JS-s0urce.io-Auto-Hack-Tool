@@ -19,7 +19,7 @@ config = {
 	// all things timing related
 	freq: {
 		// how often to guess
-		word: 1500,
+		word: 350,
 		// how often to attempt to upgrade mining tools
 		mine: 3000,
 		// how often to attempt to upgrade firewalls
