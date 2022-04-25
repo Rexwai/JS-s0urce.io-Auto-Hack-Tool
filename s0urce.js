@@ -11,7 +11,7 @@ let config, vars, app, loops, gui;
 // eslint-disable-next-line prefer-const
 config = {
 	// the message you send to others when you hack them
-	message: "papa bless, it's everyday bro",
+	message: "From Outer Space",
 	autoTarget: true,
 	autoAttack: true,
 	// the base64 database url
@@ -19,7 +19,7 @@ config = {
 	// all things timing related
 	freq: {
 		// how often to guess
-		word: 1500,
+		word: 500,
 		// how often to attempt to upgrade mining tools
 		mine: 3000,
 		// how often to attempt to upgrade firewalls
